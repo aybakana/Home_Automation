@@ -1,5 +1,4 @@
 # Home_Automation
-My Home Automation Project
 
 ## Project Overview
 I set up a kind of Home Automation System with the help of an Arduino Nano, 2 nRF24L01+ wireless transceivers, a Rasperry Pi mini computer, a temperature sensor, and a humidity sensor.
